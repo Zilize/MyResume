@@ -26,6 +26,6 @@
 
 &nbsp;
 
-&nbsp;2019.3 &nbsp;&nbsp; **DPLL算法实现SAT问题与数独求解器**
+2019.3 &nbsp;&nbsp; **DPLL算法实现SAT与数独求解器**
 
  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 个人项目 &nbsp; [GitHub地址](https://github.com/Zilize/SAT-Solver)

@@ -10,4 +10,4 @@
 
 &nbsp;
 
-<img src="https://pic.moecode.com/p1.jpg" width="65%" height="65%"></img>
+<img src="https://cdn.jsdelivr.net/gh/Zilize/MyResume@master/pic/p1.jpg" width="65%" height="65%"></img>

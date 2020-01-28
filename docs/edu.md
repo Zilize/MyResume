@@ -2,9 +2,25 @@
 
 2017.9 ~ 2021.7 &nbsp;&nbsp; **华中科技大学** &nbsp;&nbsp; 计算机科学与技术学院 &nbsp;&nbsp; 本科
 
- &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; 前四学期平均成绩：92.45/100.00 &nbsp;&nbsp; 排名：6/329
+&nbsp;
 
- &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; 英语六级：**539** &nbsp;&nbsp; 托福：**97** &nbsp;&nbsp; CSP：**220**
+前四学期成绩情况：
+
+|                           平均成绩                           |                           年级排名                           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;92.45 / 100.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6 / 329&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+
+&nbsp;
+
+部分考试情况：
+
+| 考试项目 | 成绩 |
+| :------: | :--: |
+| 英语六级 | 539  |
+|   托福   |  97  |
+|   CSP    | 220  |
+
+
 
 ## 课程成绩
 
